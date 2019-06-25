@@ -8,6 +8,7 @@ import Register from './components/auth/Register';
 import Login from './components/auth/Login';
 import Home_solutions_section from './components/layout/Home_solutions_section';
 import Home_about_section from './components/layout/Home_about_section';
+import Home_Team_section from './components/layout/Home_Team_section';
 
 const App = () =>(
   <Router>
@@ -24,6 +25,7 @@ const App = () =>(
      </section>
      <section className='container'>
      <Home_about_section/>
+     <Home_Team_section/>
      </section>
     </Fragment>
     </Router>

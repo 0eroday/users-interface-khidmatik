@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home_about_section = () => {  
   return (
-    <div className="wrapper ">
+    <div className="wrapper">
         <div>
           <i className="fas fa-handshake fa-3x"></i>
           <h2>Our Trusted Services </h2>     
