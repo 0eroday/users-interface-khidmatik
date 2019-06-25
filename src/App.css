@@ -616,7 +616,6 @@ button {
 }
 
 section.container {
-  background-image: url('./img/t.jpg');
   min-height: 400px;
   position: relative;
   /* opacity: 0.70; */
@@ -626,4 +625,14 @@ section.container {
   background-attachment: fixed; 
 }
 
+section.s-container {
+  background-image: url('./img/t.jpg');
+}
+/* i{
+  text-align:center;
+}
 
+[class^="fa-"], [class*=" fa-"] {
+  display: inline-block;
+  width: 100%;
+} */
