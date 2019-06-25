@@ -25,8 +25,9 @@ const App = () =>(
      </section>
      <section className='container'>
      <Home_about_section/>
-     <Home_Team_section/>
      </section>
+     <Home_Team_section/>
+
     </Fragment>
     </Router>
 )
