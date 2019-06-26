@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Home_about_section = () => {  
+const Home_About_Section = () => {  
   return (
     <div className="about">
       <div className="box">
@@ -34,4 +34,4 @@ const Home_about_section = () => {
   )
 }
 
-export default Home_about_section;
+export default Home_About_Section;

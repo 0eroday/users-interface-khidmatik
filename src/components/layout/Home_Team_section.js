@@ -6,13 +6,13 @@ import a3 from '../../img/3.jpg';
 import a4 from '../../img/4.jpg';
 
 
-const Home_Team_section = () => {
+const Home_Team_Section = () => {
   return (
     <div className="team_info">
       <div className="title">
         <h1>Meet Our team</h1>
       </div>
-      <div className="team_box ">
+      <div className="team_box  margen400">
           <div className="img-box ">
             <img src={a1} alt="a1" />
           </div>
@@ -96,4 +96,4 @@ const Home_Team_section = () => {
   )
 }
 
-export default Home_Team_section
+export default Home_Team_Section

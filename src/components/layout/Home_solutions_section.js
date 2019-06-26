@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Home_solutions_section = () => {
+const Home_Solutions_Section = () => {
   return (
     <section className="container ">
       <div className="text-center">
@@ -63,4 +63,4 @@ const Home_solutions_section = () => {
   )
 }
 
-export default Home_solutions_section
+export default Home_Solutions_Section
